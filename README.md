@@ -1,7 +1,7 @@
 ### Manage_Products
 <br />
 <img width="1920" height="1080" alt="Manage_Products" src="https://github.com/santanudeb/Grocery_App/blob/main/preview/ui/Manage_Products.jpg" />
-<br />
+
 ### Manage_Products_Add_New_Product
 <br />
 <img width="1920" height="1080" alt="Manage_Products_Add_New_Product" src="https://github.com/santanudeb/Grocery_App/blob/main/preview/ui/Manage_Products_Add_New_Product.jpg" />
